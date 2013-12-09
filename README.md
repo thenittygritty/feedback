@@ -45,4 +45,4 @@ project. We will try to answer the questions as soon as possible
 
 Maybe you just want to submit something quick. Then feel free to ping us on
 Twitter. We usually react pretty fast. Our Twitter handle is
-[@_thenittygritty](https://twitter.com/_thenittygritty).
+[@tngritty](https://twitter.com/tngritty).
